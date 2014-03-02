@@ -1,4 +1,4 @@
 <?php
 
-phpinfo();
 $d = new D();
+echo 'bubu';
